@@ -42,6 +42,9 @@ python gui.py
 ## Output
 Displays prediction: Addicted to Mobile / Not Addicted  
 
+Demo Video:
+https://drive.google.com/file/d/12qPee7OH2zZcQ1DPmNOipzbcK1faCpJe/view?usp=sharing
+
 ---
 
 ## Dataset
