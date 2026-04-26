@@ -43,7 +43,7 @@ python gui.py
 Displays prediction: Addicted to Mobile / Not Addicted  
 
 ## Demo Video
-[Click here to watch demo]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/12qPee7OH2zZcQ1DPmNOipzbcK1faCpJe/view?usp=sharing))
+https://drive.google.com/file/d/12qPee7OH2zZcQ1DPmNOipzbcK1faCpJe/view?usp=sharing
 
 ---
 
