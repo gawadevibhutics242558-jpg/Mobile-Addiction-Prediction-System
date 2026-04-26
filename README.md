@@ -1,6 +1,6 @@
 # Mobile Addiction Prediction System
+Mobile Addiction Prediction using Machine Learning and Tkinter GUI\
 
-Mobile Addiction Prediction using Machine Learning and Tkinter GUI
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
