@@ -1,4 +1,4 @@
-Mobile-Addiction-Prediction-System
+#Mobile-Addiction-Prediction-System
 Mobile Addiction Prediction using Machine Learning and Tkinter GUI
 
 Mobile Addiction Prediction System
