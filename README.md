@@ -1,35 +1,33 @@
-#Mobile-Addiction-Prediction-System
-Mobile Addiction Prediction using Machine Learning and Tkinter GUI
+# Mobile Addiction Prediction System
 
-Mobile Addiction Prediction System
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-Project Description:
-This project predicts mobile addiction using Machine Learning. It uses Logistic Regression to determine whether a user is addicted to mobile usage based on screen time, app usage, social media time, and sleep hours.
+---
 
-Technologies Used:
-Python
-Pandas
-NumPy
-Scikit-learn
-Tkinter (GUI)
+## Project Description
+This project predicts mobile addiction using Machine Learning. It uses a Logistic Regression model to determine whether a user is addicted to mobile usage based on screen time, app usage, social media usage, and sleep hours.
 
-Features:
-Data preprocessing and model training
-Machine learning prediction
-User-friendly GUI for input and output
+---
 
-How to Run:
-Run the model training:
-python train_model.py
+## Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Tkinter  
 
-Run the GUI:
-python gui.py
+---
 
-Output:
-Displays prediction: Addicted / Not Addicted
+## Features
+- Data preprocessing and model training  
+- Machine learning prediction  
+- User-friendly GUI  
 
-Dataset:
-Custom dataset (mobile_data.csv)
+---
 
-Author:
-Your Name
+## How to Run
+
+### Train Model
