@@ -31,3 +31,23 @@ This project predicts mobile addiction using Machine Learning. It uses a Logisti
 ## How to Run
 
 ### Train Model
+python train_model.py
+
+### Run GUI
+python gui.py
+
+
+---
+
+## Output
+Displays prediction: Addicted to Mobile / Not Addicted  
+
+---
+
+## Dataset
+mobile_data.csv  
+
+---
+
+## Author
+Vibhuti Gawade
